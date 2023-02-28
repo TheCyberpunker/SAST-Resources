@@ -12,7 +12,7 @@ Most of the tools that are used to detect vulnerabilities either in SAST or DAST
 - [Static Application Security Testing - SAST](#Static-Application-Security-Testing---SAST)
 - [SAST - Source Code](#SAST---Source-Code)
 	- [SAST - Source Code - Angular](#SAST---Source-Code---Angular)
-	- [SAST - Source Code - .NET C#](#SAST---Source-Code---.NET)
+	- [SAST - Source Code - .NET C#](#SAST---Source-Code---NET)
 	- [SAST - Source Code - Python](#SAST---Source-Code---Python)
 	- [SAST - Source Code - Java](#SAST---Source-Code---Java)
 	- [SAST - Source Code - Golang](#SAST---Source-Code---Golang)
@@ -27,7 +27,7 @@ Most of the tools that are used to detect vulnerabilities either in SAST or DAST
 - [SAST Resources](#SAST-Resources)
 	- [SAST Resources - Secrets](#SAST-Resources---Secrets)
 	- [SAST Resources - Regex](#SAST-Resources---Regex)
-- [SAST Tools](#SAST-Tools]]
+- [SAST Tools](#SAST-Tools)
 	- [SAST Tools - Search Secrets](#SAST-Tools---Search-Secrets)
 	- [SAST Tools - Regex](#SAST-Tools---Regex)
 - [SAST Labs](#SAST-Labs)
@@ -46,7 +46,7 @@ Static application security testing (SAST), or static analysis, is a testing met
 - [stackhawk.com/blog/angular-excessive-data-exposure-examples-and-prevention](https://www.stackhawk.com/blog/angular-excessive-data-exposure-examples-and-prevention/) - Angular Excessive Data Exposure
 
 
-### SAST - Source Code - .NET
+### SAST - Source Code - NET
 
 - [https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/security-warnings](https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/security-warnings) - Security rules support safer libraries and applications. These rules help prevent security flaws in your program.
 - [troyhunt.com/owasp-top-10-for-net-developers-part-1](https://www.troyhunt.com/owasp-top-10-for-net-developers-part-1/) - OWASP Top 10 for .NET.
