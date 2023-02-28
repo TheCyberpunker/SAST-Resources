@@ -173,6 +173,7 @@ git log -p /file/example.js
 ## SAST Tools
 
 - [github.com/ZupIT/horusec](https://github.com/ZupIT/horusec) - Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command.
+- [https://marketplace.visualstudio.com/items?itemName=HCLTechnologies.hclappscancodesweep](https://marketplace.visualstudio.com/items?itemName=HCLTechnologies.hclappscancodesweep) - HCL AppScan CodeSweep is a Code Editor extension that detects security vulnerabilities while you code.
 - [https://github.com/equick/jkscerts](https://github.com/equick/jkscerts) - Check certificates in a java keystore without having to know the keystore password.
 - [github.com/joernio/joern](https://github.com/joernio/joern/) - Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs.
 - [github.com/Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - comprehensive platform for code analysis and issue tracking.
