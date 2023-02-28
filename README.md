@@ -139,6 +139,7 @@ git log -p /file/example.js
 ## SAST Resources
 
 - [synopsys.com/blogs/software-security/sast-vs-dast-difference](https://www.synopsys.com/blogs/software-security/sast-vs-dast-difference/) - SAST vs DAST Difference.
+- [https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) – A curated list of static analysis (SAST)
 - https://github.com/cyberkartik/gpt3-vuln-scan - AI GPT-3 found hundreds of security vulnerabilities in this repo.
 - [github.com/cldrn/InsecureProgrammingDB](https://github.com/cldrn/InsecureProgrammingDB) - Paulino calderon Insecure programming functions database strings
 - [evdaez.com/source-code-review-simple-doctors-appointment](https://evdaez.com/index.php/2022/06/09/source-code-review-simple-doctors-appointment/) - Source code review – Simple doctor’s appointment
@@ -188,6 +189,7 @@ git log -p /file/example.js
 
 ### SAST Tools - Search Secrets
 
+- https://github.com/ihebski/DefaultCreds-cheat-sheet - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password
 - https://github.com/trufflesecurity/trufflehog - Trufflehog Find credentials all over the place.
 - [GitGraber - github.com/hisxo/gitGraber](https://github.com/hisxo/gitGraber) - Find sensitive data in real time for different online services github online, not local.
 - [github.com/securing/DumpsterDiver](https://github.com/securing/DumpsterDiver) - Tool to search secrets in various filetypes.
