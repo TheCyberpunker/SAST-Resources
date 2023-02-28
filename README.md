@@ -1,3 +1,5 @@
+# Static Application Security Testing - SAST -  Resources
+
 **Note**: This resource will be constantly updated - **Last Updated: 28/02/2023**
 
 This resource is intended to learn from the tools that certain modules already have loaded that help detect vulnerabilities in SAST, **it is not intended to replace our tasks as analysts**.
@@ -7,28 +9,28 @@ Most of the tools that are used to detect vulnerabilities either in SAST or DAST
 
 ## Static Application Security Testing - SAST - Summary
 
-- [[#Static Application Security Testing - SAST|Static Application Security Testing - SAST]]
-- [[#SAST - Source Code|SAST - Source Code]]
-	- [[#SAST - Source Code#SAST - Source Code - Angular:|SAST - Source Code - Angular:]]
-	- [[#SAST - Source Code#SAST - Source Code - .NET C#:|SAST - Source Code - .NET C#:]]
-	- [[#SAST - Source Code#SAST - Source Code - Python:|SAST - Source Code - Python:]]
-	- [[#SAST - Source Code#SAST - Source Code - Java:|SAST - Source Code - Java:]]
-	- [[#SAST - Source Code#SAST - Source Code - Golang|SAST - Source Code - Golang]]
-	- [[#SAST - Source Code#SAST - Source Code - PHP:|SAST - Source Code - PHP:]]
-	- [[#SAST - Source Code#SAST - Source Code - PowerShell:|SAST - Source Code - PowerShell:]]
-	- [[#SAST - Source Code#SAST - Source Code - Docker:|SAST - Source Code - Docker:]]
-	- [[#SAST - Source Code#SAST - Source Code - Cloud|SAST - Source Code - Cloud]]
-- [[#SAST - OneLiners|SAST - OneLiners]]
-	- [[#SAST - OneLiners#SAST - OneLiners - Source code Strings|SAST - OneLiners - Source code Strings]]
-	- [[#SAST - OneLiners#SAST - OneLiners - Git Secrets|SAST - OneLiners - Git Secrets]]
-	- [[#SAST - OneLiners#SAST - OneLiners - Secret Keywords|SAST - OneLiners - Secret Keywords]]
-- [[#SAST Resources|SAST Resources]]
-	- [[#SAST Resources#SAST Resources - Secrets|SAST Resources - Secrets]]
-	- [[#SAST Resources#SAST Resources - Regex|SAST Resources - Regex]]
-- [[#SAST Tools|SAST Tools]]
-	- [[#SAST Tools#SAST Tools - Search Secrets|SAST Tools - Search Secrets]]
-	- [[#SAST Tools#SAST Tools - Regex|SAST Tools - Regex]]
-- [[#SAST Labs|SAST Labs]]
+- [Static Application Security Testing - SAST](#Static-Application-Security-Testing---SAST)
+- [SAST - Source Code](#SAST---Source-Code)
+	- [SAST - Source Code - Angular](#SAST---Source-Code---Angular)
+	- [SAST - Source Code - .NET C#](#SAST---Source-Code---.NET-C#)
+	- [SAST - Source Code - Python](#SAST---Source Code---Python)
+	- [SAST - Source Code - Java](#SAST---Source-Code---Java)
+	- [SAST - Source Code - Golang](#SAST---Source-Code---Golang)
+	- [SAST - Source Code - PHP](#SAST---Source-Code---PHP)
+	- [SAST - Source Code - PowerShell](#SAST---Source-Code---PowerShell)
+	- [SAST - Source Code - Docker](#SAST---Source-Code---Docker)
+	- [SAST - Source Code - Cloud](#SAST---Source-Code---Cloud)
+- [SAST - OneLiners](#SAST---OneLiners)
+	- [SAST - OneLiners - Source code Strings](#SAST---OneLiners---Source-code-Strings)
+	- [SAST - OneLiners - Git Secrets](#SAST---OneLiners---Git-Secrets)
+	- [SAST - OneLiners - Secret Keywords](#SAST---OneLiners---Secret-Keywords)
+- [SAST Resources](#SAST-Resources)
+	- [SAST Resources - Secrets](#SAST-Resources---Secrets)
+	- [SAST Resources - Regex](#SAST-Resources---Regex)
+- [SAST Tools](#SAST-Tools]]
+	- [SAST Tools - Search Secrets](#SAST-Tools---Search-Secrets)
+	- [SAST Tools - Regex](#SAST-Tools---Regex)
+- [SAST Labs](#SAST-Labs)
 
 
 ## Static Application Security Testing - SAST
