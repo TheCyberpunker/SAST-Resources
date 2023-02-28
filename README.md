@@ -5,6 +5,12 @@
 This resource is intended to learn from the tools that certain modules already have loaded that help detect vulnerabilities in SAST, **it is not intended to replace our tasks as analysts**.
 Most of the tools that are used to detect vulnerabilities either in SAST or DAST will show **false positives**, so your duty as a cybersecurity researcher is to investigate and decide if it is a vulnerability or not.
 
+**My daily Tools**:
+
+- **Strings**: grep, egrep and the best friend the Terminal (console)
+- **Secrets**: gitk, git, gitsecrets, trufflehog
+- **Vulns**: grep, egrep and some keywords list, Horusec, AppScan (VScode Extension)
+
 
 
 ## Static Application Security Testing - SAST - Summary
