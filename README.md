@@ -12,8 +12,8 @@ Most of the tools that are used to detect vulnerabilities either in SAST or DAST
 - [Static Application Security Testing - SAST](#Static-Application-Security-Testing---SAST)
 - [SAST - Source Code](#SAST---Source-Code)
 	- [SAST - Source Code - Angular](#SAST---Source-Code---Angular)
-	- [SAST - Source Code - .NET C#](#SAST---Source-Code---.NET-C)
-	- [SAST - Source Code - Python](#SAST---Source Code---Python:)
+	- [SAST - Source Code - .NET C#](#SAST---Source-Code---.NET)
+	- [SAST - Source Code - Python](#SAST---Source-Code---Python)
 	- [SAST - Source Code - Java](#SAST---Source-Code---Java)
 	- [SAST - Source Code - Golang](#SAST---Source-Code---Golang)
 	- [SAST - Source Code - PHP](#SAST---Source-Code---PHP)
@@ -41,12 +41,12 @@ Static application security testing (SAST), or static analysis, is a testing met
 
 ## SAST - Source Code
 
-### SAST - Source Code - Angular:
+### SAST - Source Code - Angular
 
 - [stackhawk.com/blog/angular-excessive-data-exposure-examples-and-prevention](https://www.stackhawk.com/blog/angular-excessive-data-exposure-examples-and-prevention/) - Angular Excessive Data Exposure
 
 
-### SAST - Source Code - .NET C#:
+### SAST - Source Code - .NET
 
 - [https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/security-warnings](https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/security-warnings) - Security rules support safer libraries and applications. These rules help prevent security flaws in your program.
 - [troyhunt.com/owasp-top-10-for-net-developers-part-1](https://www.troyhunt.com/owasp-top-10-for-net-developers-part-1/) - OWASP Top 10 for .NET.
@@ -57,13 +57,13 @@ Static application security testing (SAST), or static analysis, is a testing met
 - [github.com/guardrailsio/awesome-dotnet-security](https://github.com/guardrailsio/awesome-dotnet-security) - Awesome .NET Security Resources
 
 
-### SAST - Source Code - Python:
+### SAST - Source Code - Python
 
 - [hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03) - 10 common security gotchas vulnerabilties in Python.
 - [kevinlondon.com/2015/07/26/dangerous-python-functions](https://www.kevinlondon.com/2015/07/26/dangerous-python-functions) - Dangerous Python Functions
 
 
-### SAST - Source Code - Java:
+### SAST - Source Code - Java
 
 - [developer.okta.com/blog/2018/07/30/10-ways-to-secure-spring-boot](https://developer.okta.com/blog/2018/07/30/10-ways-to-secure-spring-boot) - 10 Ways to Secure Spring Boot and vulnerabilities - MAVEN.
 - [gist.github.com/Mogztter/maven](https://gist.github.com/Mogztter/2560b623a99fad936b328b1dad3c9120) - Cheat Sheet: 10 Maven Security Best Practices - MAVEN
@@ -73,17 +73,17 @@ Static application security testing (SAST), or static analysis, is a testing met
 ### SAST - Source Code - Golang
 
 
-### SAST - Source Code - PHP:
+### SAST - Source Code - PHP
 
 - [github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet](https://github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet) - PHP Oneliners for php audit
 
 
-### SAST - Source Code - PowerShell:
+### SAST - Source Code - PowerShell
 
 - [github.com/PowerShell/PSScriptAnalyzer#introduction](https://github.com/PowerShell/PSScriptAnalyzer) - static code checker for PowerShell modules and scripts.
 
 
-### SAST - Source Code - Docker:
+### SAST - Source Code - Docker
 
 - [snyk.io/blog/10-docker-image-security-best-practices](https://snyk.io/blog/10-docker-image-security-best-practices/) - 10 Docker Security Best Practices
 - [snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand](https://snyk.io/blog/10-kubernetes-security-context-settings-you-should-understand/) - 10 Kubernetes Security Context settings you should understand.
